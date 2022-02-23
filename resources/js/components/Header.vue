@@ -1,6 +1,12 @@
 <template>
     <header>
-        <h1>Header</h1>
+        <h2>Header</h2>
+        <nav>
+            <ul>
+                <li><a href="/login">Login</a></li>
+                <li><a href="/register">Registrazione</a></li>
+            </ul>
+        </nav>
     </header>
 </template>
 
