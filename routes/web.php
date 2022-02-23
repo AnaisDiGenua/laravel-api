@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 //area pubblica - frontoffice
 Route::get('/', function () {
-    return view('welcome');
+    return view('front');
 });
 
 
