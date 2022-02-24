@@ -15120,7 +15120,7 @@ var app = new Vue({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/anais/Scaricati/laravel-api/resources/js/front.js */"./resources/js/front.js");
+module.exports = __webpack_require__(/*! /home/anais/Documenti/Boolean/Esercizi/Laravel/laravel-api/resources/js/front.js */"./resources/js/front.js");
 
 
 /***/ })
