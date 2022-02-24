@@ -3,8 +3,7 @@
         <h2>Header</h2>
         <nav>
             <ul>
-                <li><a href="/login">Login</a></li>
-                <li><a href="/register">Registrazione</a></li>
+                <li><a href="/login">Area riservata</a></li>
             </ul>
         </nav>
     </header>
